@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        println("Pushing this project to github")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
